@@ -1,0 +1,154 @@
+# POLITIQUE DE CONFIDENTIALITÉ
+
+**Dernière mise à jour : 20 octobre 2026**
+
+## 1. Introduction
+
+Bienvenue dans WhatsApp Status Saver (« nous », « notre application » ou « l'application »).
+
+Cette politique de confidentialité explique comment notre application collecte, utilise, stocke et protège les informations des utilisateurs.
+
+WhatsApp Status Saver est une application qui permet aux utilisateurs de consulter et de sauvegarder sur leur appareil les photos et les vidéos des statuts WhatsApp, sous réserve des autorisations accordées et des fonctionnalités disponibles sur leur appareil.
+
+Nous respectons la vie privée de nos utilisateurs et nous nous engageons à protéger leurs informations personnelles.
+
+En utilisant notre application, vous acceptez les pratiques décrites dans cette politique de confidentialité.
+
+## 2. Informations que nous collectons
+
+Notre application est conçue pour fonctionner avec un minimum de données personnelles.
+
+Selon les fonctionnalités utilisées, les informations suivantes peuvent être traitées :
+
+**a. Photos et vidéos**
+
+L'application peut accéder aux photos et aux vidéos des statuts WhatsApp disponibles sur votre appareil afin de vous permettre de les consulter et de les sauvegarder.
+
+Ces fichiers sont utilisés uniquement pour fournir les fonctionnalités de l'application. Nous ne les collectons pas sur nos serveurs et ne les partageons pas avec des tiers, sauf si une fonctionnalité particulière l'exige et que cela est clairement indiqué à l'utilisateur.
+
+**b. Autorisations de stockage et d'accès aux fichiers**
+
+L'application peut demander l'autorisation d'accéder à certains fichiers ou dossiers de votre appareil pour afficher, copier et sauvegarder les photos et les vidéos sélectionnées.
+
+Vous pouvez gérer ou révoquer ces autorisations dans les paramètres de votre appareil. Certaines fonctionnalités peuvent ne plus fonctionner si les autorisations nécessaires sont refusées.
+
+**c. Informations techniques**
+
+Certaines informations techniques peuvent être traitées pour assurer le bon fonctionnement de l'application, notamment la version du système d'exploitation, le modèle de l'appareil, la version de l'application et les données de diagnostic.
+
+Ces informations ne sont collectées que si les fonctionnalités utilisées, les services intégrés ou les outils de diagnostic le nécessitent.
+
+**d. Publicités**
+
+Si notre application affiche des publicités, nos partenaires publicitaires peuvent collecter ou traiter certaines données, telles que des identifiants publicitaires, des informations sur l'appareil ou des données relatives aux interactions avec les annonces, conformément à leurs propres politiques de confidentialité et aux autorisations applicables.
+
+Si l'application ne contient aucune publicité, cette section ne s'applique pas.
+
+## 3. Utilisation des informations
+
+Les informations traitées par notre application peuvent être utilisées pour :
+
+- Afficher les photos et les vidéos des statuts WhatsApp disponibles sur votre appareil.
+- Permettre la sauvegarde des photos et des vidéos dans la mémoire de votre appareil.
+- Améliorer le fonctionnement, la stabilité et les performances de l'application.
+- Diagnostiquer et corriger les erreurs techniques.
+- Afficher des publicités, si cette fonctionnalité est intégrée à l'application.
+- Respecter les obligations légales applicables.
+
+Nous n'utilisons pas les fichiers personnels des utilisateurs à des fins étrangères aux fonctionnalités annoncées de l'application.
+
+## 4. Stockage et conservation des données
+
+Les photos et les vidéos sauvegardées sont enregistrées sur votre appareil, à l'emplacement prévu par l'application ou choisi par l'utilisateur lorsque cette option est disponible.
+
+Nous ne conservons pas ces fichiers sur nos propres serveurs, sauf si une fonctionnalité spécifique indique explicitement le contraire.
+
+La durée de conservation des fichiers dépend de vos choix et de la gestion du stockage de votre appareil. Vous pouvez supprimer les fichiers sauvegardés à tout moment depuis votre appareil.
+
+Les données techniques éventuellement traitées par des services tiers sont conservées conformément aux politiques de ces services.
+
+## 5. Partage des informations avec des tiers
+
+Nous ne vendons ni ne louons les informations personnelles des utilisateurs.
+
+Nous ne partageons pas les photos et les vidéos sauvegardées avec des tiers, sauf lorsque cela est nécessaire au fonctionnement d'une fonctionnalité expressément demandée par l'utilisateur, imposé par la loi ou autorisé par celui-ci.
+
+Si l'application utilise des services tiers, tels que des services publicitaires, des outils d'analyse ou des services de diagnostic, ces prestataires peuvent traiter certaines informations conformément à leurs propres politiques de confidentialité.
+
+Nous vous recommandons de consulter les politiques de confidentialité des services tiers intégrés à l'application.
+
+## 6. Sécurité des données
+
+Nous prenons des mesures raisonnables pour protéger les informations traitées par notre application contre les accès non autorisés, la perte, l'utilisation abusive ou la divulgation.
+
+Toutefois, aucune méthode de stockage ou de transmission électronique ne peut garantir une sécurité absolue.
+
+Nous encourageons les utilisateurs à protéger leur appareil et à gérer soigneusement les autorisations accordées aux applications.
+
+## 7. Confidentialité des enfants
+
+Notre application n'est pas spécifiquement destinée aux enfants de moins de 13 ans.
+
+Nous ne collectons pas sciemment de données personnelles auprès d'enfants de moins de 13 ans sans les autorisations requises par la législation applicable.
+
+Si vous pensez qu'un enfant nous a transmis des informations personnelles de manière inappropriée, veuillez nous contacter afin que nous puissions examiner la situation et prendre les mesures nécessaires.
+
+Lorsque la législation locale prévoit un âge différent ou des protections supplémentaires, les règles applicables prévalent.
+
+## 8. Droits des utilisateurs
+
+Selon votre pays de résidence et la législation applicable, vous pouvez disposer de droits concernant vos données personnelles, notamment le droit :
+
+- De demander des informations sur les données personnelles traitées.
+- De demander la rectification ou la suppression de certaines données.
+- De vous opposer à certains traitements ou d'en demander la limitation.
+- De retirer votre consentement lorsque le traitement repose sur celui-ci.
+- D'introduire une réclamation auprès de l'autorité de protection des données compétente.
+
+Pour exercer vos droits, vous pouvez nous contacter à l'adresse électronique indiquée à la fin de cette politique.
+
+Vous pouvez également révoquer les autorisations accordées à l'application depuis les paramètres de votre appareil.
+
+## 9. Liens et services externes
+
+Notre application peut contenir des liens vers des sites Web ou des services tiers.
+
+Nous ne sommes pas responsables des pratiques de confidentialité, du contenu ou des mesures de sécurité de ces services externes.
+
+Nous vous invitons à consulter leurs politiques de confidentialité avant de leur transmettre des informations personnelles.
+
+## 10. Utilisation de WhatsApp
+
+WhatsApp Status Saver est une application indépendante et n'est ni développée, ni sponsorisée, ni approuvée par WhatsApp LLC ou Meta Platforms, Inc.
+
+WhatsApp est une marque appartenant à ses propriétaires respectifs.
+
+Notre application fonctionne avec les fichiers de statuts WhatsApp accessibles sur l'appareil de l'utilisateur, dans les limites des autorisations accordées et des fonctionnalités disponibles.
+
+Les utilisateurs sont responsables du respect des droits d'auteur, de la vie privée et des autres droits des personnes lorsqu'ils consultent, sauvegardent ou partagent des photos et des vidéos.
+
+Nous recommandons de demander l'autorisation du propriétaire du contenu avant de le redistribuer.
+
+## 11. Modifications de cette politique
+
+Nous pouvons modifier cette politique de confidentialité afin de tenir compte des évolutions de l'application, des fonctionnalités proposées ou des obligations légales.
+
+Toute nouvelle version sera publiée sur la page officielle de notre politique de confidentialité, avec une date de mise à jour.
+
+Nous encourageons les utilisateurs à consulter régulièrement cette page.
+
+## 12. Contact
+
+Pour toute question concernant cette politique de confidentialité, la protection des données ou l'utilisation de notre application, vous pouvez nous contacter :
+
+**Nom de l'application :** WhatsApp Status Saver
+
+**Développeur :** Patrickdev
+
+**Adresse e-mail :** wuidjipatrick@gmail.com
+
+Nous ferons de notre mieux pour répondre à vos demandes dans les meilleurs délais.
+
+---
+
+**Fin de la politique de confidentialité.**
